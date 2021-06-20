@@ -1,4 +1,4 @@
-# DataBase_1
+# Relational Database
 <h1>CS 210: File and Data Structure<h1>
    Relational Database made using Java programming language
   <br>
